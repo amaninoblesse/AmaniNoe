@@ -308,7 +308,7 @@
     border: 1px solid whitesmoke;
     background: transparent;
     color: white;
-    /* font: normal 500 17px/20px var(--roboto); */
+    font: normal 500 17px/20px var(--roboto);
 }
 
 .site-main .subscribe-us-area .subscribe form .input-textbox input::placeholder{
@@ -331,7 +331,7 @@ footer.footer-area{
 }
 
 footer.footer-area .social h5{
-    /* font: normal 500 23px/ 30px var(--roboto); */
+    font: normal 500 23px/ 30px var(--roboto);
 }
 
 footer.footer-area .social a > i{
